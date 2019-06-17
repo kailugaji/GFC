@@ -17,3 +17,4 @@ I2 = imread(ImgName2) ;
 
 % Plot results
 plot_matches(I1, I2, X, Y, index, label);
+plot_4c(I1, I2, X, Y, index, label);
